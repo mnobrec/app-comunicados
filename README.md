@@ -1,6 +1,4 @@
-# app-comunicados
-
-# README
+# app-comunicados - README
 
 ## Descrição
 
